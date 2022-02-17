@@ -13,7 +13,7 @@ public class CameraScript : MonoBehaviour
   private float yaw = 0.0f;
   private float pitch = 0.0f;
 
-  private float advanceSpeed = 5;
+  private float advanceSpeed = 3;
 
   private float fadeAmount = 0;
 
@@ -62,53 +62,28 @@ public class CameraScript : MonoBehaviour
       }
 
       //autoscrolling code
-      if (vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 11) {
+      if (vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 47) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
-      if (Time.time > 120 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 30) {
+      if (Time.time > 60 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 67) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
-      if (Time.time > 240 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 54.5) {
+      if (Time.time > 120 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 125) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
-      if (Time.time > 360 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 69) {
+      if (Time.time > 180 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 196) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
-      if (Time.time > 480 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 95) {
+      if (Time.time > 240 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 243) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
-      if (Time.time > 600 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 123) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
 
-      if (Time.time > 720 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 142) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
 
-      if (Time.time > 840 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 164) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
-
-      if (Time.time > 960 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 186) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
-
-      if (Time.time > 1080 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 208) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
-
-      if (Time.time > 1200 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 230) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
-
-      if (Time.time > 1320 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 244) {
-        vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }
 
 
       //Reset to beginning

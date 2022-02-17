@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: a88d81c6bf5124aa2a82db924d48190d
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bamboo_wood_mat
+    second: {fileID: 2100000, guid: 35059b6a46d084340b1563242bbd56b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beached_plaque_mat
+    second: {fileID: 2100000, guid: 3d56629c6732143b09e5a8ee89a304b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_enamel_mat
+    second: {fileID: 2100000, guid: 378a5e1aa63f24f8586f6f9d8745e462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_plastic_mat
+    second: {fileID: 2100000, guid: cb2e6b60ec8954ee0ae5031f41f99119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_mat
+    second: {fileID: 2100000, guid: 94b1706cb22274353914c3a100fb5dce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bucket_mat
+    second: {fileID: 2100000, guid: 490ab2bc9d20b4957a6e3d902baa1850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bucket_plaque_mat
+    second: {fileID: 2100000, guid: 196d9b69118ec4ec0a002d25c4cb3056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulb_mat
+    second: {fileID: 2100000, guid: 947df67460d774e51a64141fbc110cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: counter_mat
+    second: {fileID: 2100000, guid: 84829c02ffffa4c0694b842349eb2abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_wood_mat
+    second: {fileID: 2100000, guid: 40dbb8afcb12a4c8796a6897bd0273a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_blue_paint_mat
+    second: {fileID: 2100000, guid: 15b14d1f58d844c9390e52ba2a94d520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lighthouse_plaque_mat
+    second: {fileID: 2100000, guid: 65dd4b3de99e2425fb70be0977eccc90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mousepad_mat
+    second: {fileID: 2100000, guid: 31e7e17cbdc5a49248fbecd594b07f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oxidized_mat
+    second: {fileID: 2100000, guid: 4dc12cde58317435397aa5ab4595c9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_vinyl_mat
+    second: {fileID: 2100000, guid: 15b5062dae4f142e1b03b5c313663ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: research_plaque_mat
+    second: {fileID: 2100000, guid: c5b842d0a3b0e4c17afc1927b6d0ceb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steamshovel_plaque_mat
+    second: {fileID: 2100000, guid: b4f05413192834ad5a3bff70d4d2b9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_mat
+    second: {fileID: 2100000, guid: 3810f31e8d5e84c43b2ea6b159e334db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tablet_sign_mat
+    second: {fileID: 2100000, guid: 17f41169828104cd7bbd358970ba6266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tool_plinth_mat
+    second: {fileID: 2100000, guid: 8228491e80e7f451aa11ab1230df1efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tools_plaque_mat
+    second: {fileID: 2100000, guid: fe55d49f32202496fac065125efc5514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_mat
+    second: {fileID: 2100000, guid: 54b93ce4c2f054461b03be8c04f5bbf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_plastic_mat
+    second: {fileID: 2100000, guid: 77d6060624172436bb353529a98bf2d2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 360_F_169062204_IGWhLeSCVh74m6X9KirNBJM7NTU3SGqa
+    second: {fileID: 2800000, guid: c4066fd2689d84e3f86b5d88c92800bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Default_Wood
+    second: {fileID: 2800000, guid: 3a3627beb16b24c67b3e32099cbe84f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tablets_info_plaque
+    second: {fileID: 2800000, guid: 9386dddab04b5419e8c597bb6d9d87a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: beached plaque
+    second: {fileID: 2800000, guid: 5b13684ac3ec540839152a379612fd96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_base
+    second: {fileID: 2800000, guid: bc12e97bd51f94a8899825610e46f86a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bucket plaque
+    second: {fileID: 2800000, guid: 9cdbf3f0588034bd9b583c240ccfbeb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lighthouse plaque
+    second: {fileID: 2800000, guid: 2835d3a46b3a24ccc88b7d5201306301, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oxide
+    second: {fileID: 2800000, guid: a9300b04cf265478b9f0ee5445803d77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: research plaque
+    second: {fileID: 2800000, guid: 5151f634f284b424e83917ca2e3ccfbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sedimentary-rock-4338378_1280
+    second: {fileID: 2800000, guid: 58af65e3776d643f7b15f277dd5fe2f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steamshovel plaque
+    second: {fileID: 2800000, guid: c26da2cfe09e64ccdac881a3e5b33318, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tool plinth
+    second: {fileID: 2800000, guid: ffe989cf3c3584ed2935cd697028efb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tools plaque
+    second: {fileID: 2800000, guid: e85d2e07253ac43da8cb95d8a78a3f24, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

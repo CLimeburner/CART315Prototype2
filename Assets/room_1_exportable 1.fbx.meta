@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 6a052701fb2254db09ef6ee9a843f94f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NY_2
+    second: {fileID: 2100000, guid: 0a1ae8c91165a426eb948dda95954166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner_mat
+    second: {fileID: 2100000, guid: 53d2fd9d465e14dc6897a5b07f4e5a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroom_sign_mat
+    second: {fileID: 2100000, guid: c3869482d21c840529c2fa2915f79c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_enamel_mat
+    second: {fileID: 2100000, guid: 378a5e1aa63f24f8586f6f9d8745e462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_plastic_mat
+    second: {fileID: 2100000, guid: cb2e6b60ec8954ee0ae5031f41f99119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_woven_fabric_mat
+    second: {fileID: 2100000, guid: c2930e9af026f4dc39fad0902911af03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue _vinyl_mat
+    second: {fileID: 2100000, guid: 404924720e2f74b24a7e8f14c2498513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brass_mat
+    second: {fileID: 2100000, guid: 587b447a444e84e5b8a936015877e341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capital_mat
+    second: {fileID: 2100000, guid: 2d4ef42dcd271438abda6a72b7da40c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clear_plastic_mat
+    second: {fileID: 2100000, guid: b2c6bf2b2f67d450c93fca45b88a7985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: counter_mat
+    second: {fileID: 2100000, guid: 84829c02ffffa4c0694b842349eb2abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: desk_mat
+    second: {fileID: 2100000, guid: f90fb18b2544143e48b060a75fd7aabe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dorado_poster_mat
+    second: {fileID: 2100000, guid: 833fd93fb15d34aa999c8fe66e63a41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exhition_pamphlet_mat
+    second: {fileID: 2100000, guid: 4984f6d4f89244ec69f76d50a80c3a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: file_cabinet_front_mat
+    second: {fileID: 2100000, guid: 9be73d23b595041928b2541723008146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_sign_mat
+    second: {fileID: 2100000, guid: 0d7942e9e72ba4256a1c09e8929b58c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: form_mat
+    second: {fileID: 2100000, guid: a386c8195c8594c7d99e29c5fa0f38ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_mat
+    second: {fileID: 2100000, guid: 55a29b14ff99e40f983ae9a16e6eb6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green_vinyl_mat
+    second: {fileID: 2100000, guid: 914860b43bc2b41ab9f040f5189e0d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hunley_poster_mat
+    second: {fileID: 2100000, guid: 232d06c7bdd974e6ba3c7b324cf3ef22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: key_cap_mat
+    second: {fileID: 2100000, guid: 5e2f30806a8b447d89774e7deb1cc238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lead_mat
+    second: {fileID: 2100000, guid: 5714433af69a8465aa437b25ddb0e3a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letter_mat
+    second: {fileID: 2100000, guid: a3adc09c1e3c6409893c439984e3dd95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_blue_paint_mat
+    second: {fileID: 2100000, guid: 15b14d1f58d844c9390e52ba2a94d520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marble_dark_mat
+    second: {fileID: 2100000, guid: 6cf8ae8d1ec9f457abc7247faf89fdb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marble_light_mat
+    second: {fileID: 2100000, guid: 268d4e614bd1b4dc58e44fca6d19ca79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marquee_mat
+    second: {fileID: 2100000, guid: ef5ba560538f246df95148142b8089d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: membership_sign_mat
+    second: {fileID: 2100000, guid: 06bfe4fc812914b4db43c93864b08265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mosaic_mat
+    second: {fileID: 2100000, guid: c92e82ad08946482281d212812cffc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mousepad_mat
+    second: {fileID: 2100000, guid: 31e7e17cbdc5a49248fbecd594b07f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pamphlet_map_mat
+    second: {fileID: 2100000, guid: 6f82fa055c1b54104a76bb07965e3d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper_mat
+    second: {fileID: 2100000, guid: 168fa75e9de6f4878b8f29e581a936c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: permanent_exhibit_mat
+    second: {fileID: 2100000, guid: 17124c2fa383b4f6b9e9c78a0d37619b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: printer_front_mat
+    second: {fileID: 2100000, guid: 6221e6c6b55ed4459b1494d64aea8664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: printer_top_mat
+    second: {fileID: 2100000, guid: aade8112c9573466ebeb2a7e76055ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_vinyl_mat
+    second: {fileID: 2100000, guid: 15b5062dae4f142e1b03b5c313663ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen_mat
+    second: {fileID: 2100000, guid: c5809751eb86a4db0880d12eb4012105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidewalk_mat
+    second: {fileID: 2100000, guid: ca0acc9c819c24b888289972951c32ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign_mat
+    second: {fileID: 2100000, guid: a38eb1ee3b934491ba58c4f1bfcb030d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skylight_mat
+    second: {fileID: 2100000, guid: 7dd4e1fd538c54fa5b4471932a818d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless_steel_mat
+    second: {fileID: 2100000, guid: ded9a2a0ee2014a57a57014621ecc721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_mat
+    second: {fileID: 2100000, guid: c2378bfc196054317a63e0c5882cbed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: veneer_mat
+    second: {fileID: 2100000, guid: 46b520331f1354b77b687499711be232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_floor_mat
+    second: {fileID: 2100000, guid: c25a47a3f02444046a74e063449d3a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: words_poster_mat
+    second: {fileID: 2100000, guid: 527868e75e34946d593007fd2661f278, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -17,6 +17,10 @@ public class CameraScript : MonoBehaviour
 
   private float fadeAmount = 0;
 
+  void Start () {
+     Cursor.visible = false;
+  }
+
   void FixedUpdate () {
 
       yaw += speedH * Input.GetAxis("Mouse X");

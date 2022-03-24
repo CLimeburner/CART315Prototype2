@@ -16,6 +16,6 @@ public class FlickeringLightScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-      flickerLight.intensity = Random.Range(0.0f, 1.0f);
+      flickerLight.intensity = Random.Range(0.0f, 1.5f);
     }
 }

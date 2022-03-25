@@ -37,13 +37,13 @@ public class CameraScript : MonoBehaviour
 
 
       //backup code for manual scrolling
-      if (Input.GetKey(KeyCode.W) && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 245) {
+      /*if (Input.GetKey(KeyCode.W) && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 245) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + 1;
       }
 
       if (Input.GetKey(KeyCode.S) && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition > 0) {
          vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition - 1;
-      }
+      }*/
 
 
       //Fade to Black code
@@ -89,7 +89,7 @@ public class CameraScript : MonoBehaviour
       }*/
 
       //autoscrolling code -- LONG VERSION --
-      /*if (vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 10) {
+      if (vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 10) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
       }
 
@@ -135,7 +135,7 @@ public class CameraScript : MonoBehaviour
 
       if (Time.time > 1320 && vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition < 244) {
         vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition = vcam.GetCinemachineComponent<CinemachineTrackedDolly>().m_PathPosition + (advanceSpeed/100);
-      }*/
+      }
 
 
 

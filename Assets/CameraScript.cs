@@ -19,6 +19,7 @@ public class CameraScript : MonoBehaviour
 
   void Start () {
      Cursor.visible = false;
+     Cursor.lockState = CursorLockMode.Locked;
   }
 
   void FixedUpdate () {
@@ -28,7 +29,7 @@ public class CameraScript : MonoBehaviour
 
       transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
 
-      if (Input.GetKey(KeyCode.Space)) {
+      if (Input.GetMouseButton(0)) {
         vcam.m_Lens.FieldOfView = 40;
       } else {
         vcam.m_Lens.FieldOfView = 60;

@@ -2554,7 +2554,7 @@ MonoBehaviour:
 
     Mouse to look around
 
-    Spacebar to zoom'
+    Left click to zoom'
 --- !u!222 &493880424
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -55,15 +55,15 @@ public class Follower : MonoBehaviour
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 540 && distanceTravelled < 2.139) {
+      if (Time.time > 540 && distanceTravelled < 2.120) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 630 && distanceTravelled < 2.456) {
+      if (Time.time > 630 && distanceTravelled < 2.430) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 720 && distanceTravelled < 2.694) {
+      if (Time.time > 720 && distanceTravelled < 2.680) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
@@ -83,31 +83,31 @@ public class Follower : MonoBehaviour
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1170 && distanceTravelled < 4.202) {
+      if (Time.time > 1170 && distanceTravelled < 4.232) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1260 && distanceTravelled < 4.615) {
+      if (Time.time > 1260 && distanceTravelled < 4.665) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1350 && distanceTravelled < 5.059) {
+      if (Time.time > 1350 && distanceTravelled < 5.109) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1440 && distanceTravelled < 5.536) {
+      if (Time.time > 1440 && distanceTravelled < 5.548) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1530 && distanceTravelled < 6.012) {
+      if (Time.time > 1530 && distanceTravelled < 6.032) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1620 && distanceTravelled < 6.488) {
+      if (Time.time > 1620 && distanceTravelled < 6.523) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1710 && distanceTravelled < 6.964) {
+      if (Time.time > 1710 && distanceTravelled < 6.994) {
         distanceTravelled += speed * Time.deltaTime;
       }
 

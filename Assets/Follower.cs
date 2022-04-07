@@ -35,7 +35,7 @@ public class Follower : MonoBehaviour
       */
 
       //advances people -- LONG VERSION --
-      if (Time.time > 90 && distanceTravelled < 0.417) {
+      if (Time.time > 90 && distanceTravelled < 0.43) {
         distanceTravelled += speed * Time.deltaTime;
       }
 

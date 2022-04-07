@@ -13,13 +13,13 @@ public class CoasterScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-      if((Time.time%120) == 90) {
+      if((Time.time%90) == 60) {
         this.GetComponent<Transform>().position = new Vector3(60.0f, 3.18f, 28.41f);
       }
-      if((Time.time%120) > 30 && (Time.time%120) < 90) {
+      if((Time.time%90) > 30 && (Time.time%120) < 90) {
         this.GetComponent<Transform>().Translate(-0.1f, 0, 0);
       }
-      if((Time.time%120) > 90 && transform.position.x > 25.51) {
+      if((Time.time%90) > 60 && transform.position.x > 25.51) {
         this.GetComponent<Transform>().Translate(-0.1f, 0, 0);
       }
     }

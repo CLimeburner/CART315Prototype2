@@ -27,6 +27,13 @@ public class CameraScript : MonoBehaviour
       yaw += speedH * Input.GetAxis("Mouse X");
       pitch -= speedV * Input.GetAxis("Mouse Y");
 
+      if(pitch > 90.0f) {
+        pitch = 90.0f;
+      }
+      if(pitch < -90.0f) {
+        pitch = -90.0f;
+      }
+
       transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
 
       if (Input.GetMouseButton(0)) {

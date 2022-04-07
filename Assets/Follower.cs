@@ -35,49 +35,86 @@ public class Follower : MonoBehaviour
       */
 
       //advances people -- LONG VERSION --
-      if (Time.time > 120 && distanceTravelled < 0.615) {
+      if (Time.time > 90 && distanceTravelled < 0.417) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 240 && distanceTravelled < 1.38) {
+      if (Time.time > 180 && distanceTravelled < 0.631) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 360 && distanceTravelled < 1.85) {
+      if (Time.time > 270 && distanceTravelled < 0.885) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 480 && distanceTravelled < 2.675) {
+      if (Time.time > 360 && distanceTravelled < 1.409) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 600 && distanceTravelled < 3.575) {
+      if (Time.time > 450 && distanceTravelled < 1.853) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 720 && distanceTravelled < 4.2) {
+      if (Time.time > 540 && distanceTravelled < 2.139) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 840 && distanceTravelled < 4.9) {
+      if (Time.time > 630 && distanceTravelled < 2.456) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 960 && distanceTravelled < 5.6) {
+      if (Time.time > 720 && distanceTravelled < 2.694) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1080 && distanceTravelled < 6.275) {
+      if (Time.time > 810 && distanceTravelled < 2.98) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1200 && distanceTravelled < 6.975) {
+      if (Time.time > 900 && distanceTravelled < 3.186) {
         distanceTravelled += speed * Time.deltaTime;
       }
 
-      if (Time.time > 1320 && distanceTravelled < 7.5) {
+      if (Time.time > 990 && distanceTravelled < 3.567) {
         distanceTravelled += speed * Time.deltaTime;
       }
+
+      if (Time.time > 1080 && distanceTravelled < 3.821) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1170 && distanceTravelled < 4.202) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1260 && distanceTravelled < 4.615) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1350 && distanceTravelled < 5.059) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1440 && distanceTravelled < 5.536) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1530 && distanceTravelled < 6.012) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1620 && distanceTravelled < 6.488) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1710 && distanceTravelled < 6.964) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
+      if (Time.time > 1800 && distanceTravelled < 7.408) {
+        distanceTravelled += speed * Time.deltaTime;
+      }
+
 
 
       transform.position = pathCreator.path.GetPointAtDistance(distanceTravelled + startPos);

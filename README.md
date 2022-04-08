@@ -1,4 +1,4 @@
-#Final Prototype Design Journal
+# Final Prototype Design Journal
 
 For this final version of my prototype, there were a couple major points I wanted to refine just a little further, as well as several much smaller questions of polish. To restate the goal of this project, it was to develop a realistic queue experience that could keep players engaged as well as conveying the backstory for the hypothetical ride that would follow. Importantly, the queue experience also had to take on a "threshold" element, transitioning players from whatever hypothetical outside world they might be coming from and explaining to them how they've found themselves in a cave, embarking on an adventure. This was done both narratively (to mixed success) as well as spatially, as rooms become smaller and more cramped until they transition to the new diegetic cavern space and start opening back up again as guests step into this "new" world.
 
